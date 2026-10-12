@@ -1,0 +1,12 @@
+{
+  "name": "Mèche & Barbe",
+  "short_name": "Mèche & Barbe",
+  "description": "Salon mixte fictif — barbier et coiffure, spécialiste des mèches et balayages à Villedémo.",
+  "lang": "fr",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#1f1520",
+  "theme_color": "#150e16",
+  "icons": []
+}

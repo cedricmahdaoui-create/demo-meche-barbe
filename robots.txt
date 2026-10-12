@@ -1,0 +1,8 @@
+# Mèche & Barbe
+User-agent: *
+Allow: /
+Disallow: /merci.html
+Disallow: /404.html
+Disallow: /assets/data/
+
+Sitemap: https://www.example.com/sitemap.xml

@@ -1,0 +1,30 @@
+# Mèche & Barbe
+
+> Salon mixte fictif — barbier et coiffure, spécialiste des mèches et balayages à Villedémo.
+
+Salon mixte barbier et coiffure : coupes homme et femme, barbe, rasage, mèches, balayages et colorations.
+
+## Métadonnées
+
+- **Name:** Mèche & Barbe
+- **Language:** fr
+- **Country:** FR
+- **Website:** https://www.example.com
+- **Contact:** via the contact form at https://www.example.com/#contact-form
+
+## Pages principales
+
+- [Accueil](https://www.example.com/)
+- [La carte et les tarifs](https://www.example.com/prestations.html)
+- [L'équipe](https://www.example.com/equipe.html)
+- [Mèches et balayage à Villedémo](https://www.example.com/meches-balayage-villedemo.html)
+- [Mentions légales](https://www.example.com/mentions-legales.html)
+- [Politique de confidentialité](https://www.example.com/politique-confidentialite.html)
+- [Plan du site](https://www.example.com/plan-du-site.html)
+
+## Coordonnées
+
+- **Adresse :** 5 rue des Halles, 00000 Villedémo, Région Exemple (Département Exemple), France
+- **Téléphone :** 01 99 00 33 44
+- **E-mail :** salon@example.com
+- **Horaires :** fermé le lundi, mardi-mercredi 10h-19h30, jeudi 10h-21h, vendredi 10h-19h30, samedi 9h-18h, fermé le dimanche
